@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LABY\\ООП\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\GITS\\OOP_LABS\\lab1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\LABY\\ООП\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\GITS\\OOP_LABS\\lab1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\rustk\\.nuget\\packages\\",
-      "outputPath": "D:\\LABY\\ООП\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\GITS\\OOP_LABS\\lab1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rustk\\AppData\\Roaming\\NuGet\\NuGet.Config"
