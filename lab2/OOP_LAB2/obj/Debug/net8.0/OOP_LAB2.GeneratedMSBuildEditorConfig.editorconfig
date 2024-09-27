@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OOP_LAB2
-build_property.ProjectDir = D:\GITS\C# test\OOP_LAB2\OOP_LAB2\
+build_property.ProjectDir = D:\GITS\OOP_LABS\lab2\OOP_LAB2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
