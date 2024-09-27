@@ -1,0 +1,14 @@
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\bin\Debug\net8.0\OOP_LAB2.exe
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\bin\Debug\net8.0\OOP_LAB2.deps.json
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\bin\Debug\net8.0\OOP_LAB2.runtimeconfig.json
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\bin\Debug\net8.0\OOP_LAB2.dll
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\bin\Debug\net8.0\OOP_LAB2.pdb
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\obj\Debug\net8.0\OOP_LAB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\obj\Debug\net8.0\OOP_LAB2.AssemblyInfoInputs.cache
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\obj\Debug\net8.0\OOP_LAB2.AssemblyInfo.cs
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\obj\Debug\net8.0\OOP_LAB2.csproj.CoreCompileInputs.cache
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\obj\Debug\net8.0\OOP_LAB2.dll
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\obj\Debug\net8.0\refint\OOP_LAB2.dll
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\obj\Debug\net8.0\OOP_LAB2.pdb
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\obj\Debug\net8.0\OOP_LAB2.genruntimeconfig.cache
+D:\GITS\C# test\OOP_LAB2\OOP_LAB2\obj\Debug\net8.0\ref\OOP_LAB2.dll

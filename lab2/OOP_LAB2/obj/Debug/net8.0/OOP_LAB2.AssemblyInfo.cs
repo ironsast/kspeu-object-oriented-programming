@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("OOP_LAB2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0015592e79d22868f96c31b08c91df513442c352")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("OOP_LAB2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("OOP_LAB2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
